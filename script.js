@@ -7,7 +7,7 @@ var pet_info = {
 };
 
 
-$(function() { 
+$(function() {
 
     checkAndUpdatePetInfoInHtml();
 
